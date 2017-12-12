@@ -1,5 +1,5 @@
 # react-native-vector-icons-slds
-Icon definition for Salesforce Lightning Design System Icons for use with `react-native-vector-icons`
+Icon and color definitions for Salesforce Lightning Design System Icons for use with `react-native-vector-icons`
 
 Compatible with Winter ’18 (SLDS 2.4.6) release.
 
@@ -40,3 +40,7 @@ Now, you can use the icons:
 ```
 
 You can find an Expo Snack with a demo of all the icons here: https://snack.expo.io/@agartha/react-native-icons-slds-demo
+
+## Colors
+
+This library also contains the standard icon background colors from the Lightning Design System. This Expo Snack contains an example of how to use them: https://snack.expo.io/@agartha/slds-icon-colors-demo

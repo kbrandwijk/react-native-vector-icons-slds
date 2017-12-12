@@ -1,6 +1,6 @@
 {
   "name": "react-native-vector-icons-slds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Icon definition for Salesforce Lightning Design System Icons compatible with react-native-vector-icons",
   "repository": {
     "type": "git",
